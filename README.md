@@ -15,8 +15,8 @@ This is a simple repository where I will put some information to guide you how t
 
 :speech_ballon:
 
-:thoght_ballon:
+:thought_ballon:
 
-:mortal_board: 
+:mortar_board: 
 
 
