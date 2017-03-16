@@ -4,13 +4,13 @@ This is a simple repository where I will put some information to guide you how t
 
 # :closed_book: Guides
 
-#:page_with_curl: Documents
+# :page_with_curl: Documents
 
 # :books: Studies
 
 # :feet: Step-by-Step
 
-# :mag: or :mag_right: or :microscope: or :telescope:
+# :mag: | :mag_right: | :microscope: | :telescope:
  
 # :speech_balloon:
 
